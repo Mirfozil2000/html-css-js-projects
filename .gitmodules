@@ -1,0 +1,3 @@
+[submodule "validate-js"]
+	path = validate-js
+	url = https://github.com/Mirfozil2000/html-css-js-projects.git
